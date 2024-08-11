@@ -7,3 +7,27 @@ The Mech-Bot project aims to create an intelligent chatbot that assists car owne
 
 The initial version of Mech-Bot will focus on diagnosing common car problems and providing maintenance tips. The chatbot will use a database of car repair manuals, which will be collected in PDF format. These manuals will serve as the primary source of information for Mech-Bot, enabling it to provide detailed and accurate responses to user queries.
 
+# Mech-Bot Developer's Tutorial
+
+Welcome to the Mech-Bot Developer's Tutorial! This guide will walk you through setting up, running, and customizing the Mech-Bot project, a car mechanic assistant chatbot powered by LLaMA models.
+
+## prerequisites
+
+Before you start, make sure you have the following:
+
+- Python 3.8+
+- Jupyter Notebook (or Google Colab for running the notebook in the cloud)
+
+- PyTorch (with GPU support if available)
+
+- Hugging Face Transformers library
+Gradio for the chat interface
+
+- WandB (Weights and Biases) API key for monitoring and logging
+
+- Togather AI account to obtain an API key for using its services
+
+- Google Colab to run the notebook in a cloud environment
+
+Ensure you have access to these resources to develop and run Mech-Bot smoothly.
+
