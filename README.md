@@ -87,3 +87,6 @@ Here’s another view showing detailed metrics for a specific run, including ans
 
 
 <picture align="center"><img src = "img/eval2.png" width = 700px></picture>
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
