@@ -11,7 +11,6 @@ The initial version of Mech-Bot will focus on diagnosing common car problems and
 Repair Manuals: Detailed, step-by-step instructions on car maintenance and repair, available in digital formats like PDFs, and loaded using PyMuPDF.
 
 
----
 
 
 - Repair Manuals: Detailed, step-by-step instructions on car maintenance and repair, available in digital formats like PDFs, and loaded using PyMuPDF.
