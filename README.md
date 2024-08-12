@@ -10,6 +10,10 @@ The initial version of Mech-Bot will focus on diagnosing common car problems and
 ### 📚🔧Data to Use:r
 repair Manuals: Detailed, step-by-step instructions on car maintenance and repair, available in digital formats like PDFs, and loaded using PyMuPDF.
 
+### 🏛️Mech-bot architecture:
+<picture align="center"><img src = "img/mecharch.png" width = 700px></picture>
+
+
 
 # Mech-Bot Developer's Tutorial
 ---
