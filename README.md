@@ -69,3 +69,15 @@ set up the WandB API key & Togather AI API key.
 Run the cells to perform tasks such as loading data,building RAG pipeline and launching the Gradio interface.
 
 ---
+
+## Monitor and Evaluate with WandB
+
+Once you run the notebook, WandB will automatically log key metrics related to the performance of Mech-Bot. These metrics are displayed in your WandB dashboard, which allows you to monitor the relevance and accuracy of the answers provided by the chatbot.
+
+
+In the screenshot below, you can see the list of logged runs and the relevance scores associated with each question. This helps in tracking the quality of the chatbot's responses.
+
+<picture align="center"><img src = "img/eval3.png" width = 400px></picture>
+
+Here’s another view showing detailed metrics for a specific run, including answer relevancy. This visualization helps you analyze how well the chatbot is performing on a granular level.
+<picture align="center"><img src = "img/eval2.png" width = 400px></picture>
