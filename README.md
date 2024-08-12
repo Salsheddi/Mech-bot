@@ -12,6 +12,7 @@ repair Manuals: Detailed, step-by-step instructions on car maintenance and repai
 
 
 # Mech-Bot Developer's Tutorial
+---
 
 Welcome to the Mech-Bot Developer's Tutorial! This guide will walk you through setting up, running, and customizing the Mech-Bot project, a car mechanic assistant chatbot powered by LLaMA models.
 
@@ -36,7 +37,7 @@ Gradio for the chat interface
 Ensure you have access to these resources to develop and run Mech-Bot smoothly.
 
 ## To open Mech-bot in Google Colab:
---
+
 
 ### Step 1: Download Required Files
 1. **Download `Mech-bot_DATA(text).pdf`**:
@@ -65,3 +66,4 @@ This file contains the data necessary for the chatbot.
 set up the WandB API key & Togather AI API key.
 ### Step 5:  Run the Notebook Cells
 Run the cells to perform tasks such as loading data,building RAG pipeline and launching the Gradio interface.
+---
