@@ -35,3 +35,32 @@ Gradio for the chat interface
 
 Ensure you have access to these resources to develop and run Mech-Bot smoothly.
 
+### To open Mech-bot in Google Colab:
+
+### Step 1: Download Required Files
+1. **Download `Mech-bot_DATA(text).pdf`**:
+This file contains the data necessary for the chatbot.
+
+2. **Download `Mech_bot(main code).ipynb`**:
+   Obtain the Jupyter Notebook file which contains the main code for the Mech-Bot project.
+
+### Step 2: Open Google Colab
+1. Go to [Google Colab](https://colab.research.google.com/).
+
+2. **Create a New Notebook**:
+   - Click on `File > New notebook`.
+
+
+### Step 3: Upload Files to Colab
+
+1. **Upload `Mech_bot(main code).ipynb`**:
+     - In the Colab notebook, click on `File > Upload notebook`.
+  
+2. **Upload `Mech-bot_DATA(text).pdf`**:
+     - In the Colab notebook, click on the folder icon on the left sidebar to open the file explorer.
+   - Click on the upload icon (a file with an up arrow) and select `Mech_bot(main code).ipynb` from your local machine.
+
+### Step 4: Set Up API Keys
+set up the WandB API key & Togather AI API key.
+### Step 5:  Run the Notebook Cells
+Run the cells to perform tasks such as loading data,building RAG pipeline and launching the Gradio interface.
