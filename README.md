@@ -35,7 +35,8 @@ Gradio for the chat interface
 
 Ensure you have access to these resources to develop and run Mech-Bot smoothly.
 
-### To open Mech-bot in Google Colab:
+## To open Mech-bot in Google Colab:
+--
 
 ### Step 1: Download Required Files
 1. **Download `Mech-bot_DATA(text).pdf`**:
