@@ -7,11 +7,7 @@ The Mech-Bot project aims to create an intelligent chatbot that assists car owne
 
 The initial version of Mech-Bot will focus on diagnosing common car problems and providing maintenance tips. The chatbot will use a database of car repair manuals, which will be collected in PDF format. These manuals will serve as the primary source of information for Mech-Bot, enabling it to provide detailed and accurate responses to user queries.
 
-### 📚🔧Data to Use:
-Repair Manuals: Detailed, step-by-step instructions on car maintenance and repair, available in digital formats like PDFs, and loaded using PyMuPDF.
-
-
-
+### 📚🔧Data to Use:epair Manuals: Detailed, step-by-step instructions on car maintenance and repair, available in digital formats like PDFs, and loaded using PyMuPDF.
 
 - Repair Manuals: Detailed, step-by-step instructions on car maintenance and repair, available in digital formats like PDFs, and loaded using PyMuPDF.
 
