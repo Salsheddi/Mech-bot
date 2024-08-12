@@ -64,6 +64,8 @@ This file contains the data necessary for the chatbot.
 
 ### Step 4: Set Up API Keys
 set up the WandB API key & Togather AI API key.
+
 ### Step 5:  Run the Notebook Cells
 Run the cells to perform tasks such as loading data,building RAG pipeline and launching the Gradio interface.
+
 ---
