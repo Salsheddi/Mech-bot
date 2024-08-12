@@ -74,7 +74,7 @@ Run the cells to perform tasks such as loading data,building RAG pipeline and la
 
 ---
 
-## Monitor and Evaluate with WandB
+## 📊 Monitor and Evaluate with WandB
 
 Once you run the notebook, WandB will automatically log key metrics related to the performance of Mech-Bot. These metrics are displayed in your WandB dashboard, which allows you to monitor the relevance and accuracy of the answers provided by the chatbot.
 
