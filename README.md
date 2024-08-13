@@ -104,7 +104,7 @@ https://github.com/KhaNerd1
   <img src="https://contrib.rocks/image?repo=Salsheddi/Mech-bot" alt="Contributors" />
 </a>
 <a href="https://github.com/KhaNerd1/Mech-bot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=KhaNerd/Mech-bot" alt="Contributors" />
+  <img src="https://contrib.rocks/image?repo=KhaNerd1/Mech-bot" alt="Contributors" />
 </a>
 
 ## 📜 License
