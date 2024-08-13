@@ -93,7 +93,7 @@ In the screenshot below, you can see the list of logged runs and the relevance s
 Here’s another view showing detailed metrics for a specific run, including answer relevancy. This visualization helps you analyze how well the chatbot is performing on a granular level.
 
 
-<picture align="center"><img src = "img/eval4.png" width = 700px></picture>
+<picture align="center"><img src = "img/Eval4.png" width = 700px></picture>
 
 
 ## 📜 License
