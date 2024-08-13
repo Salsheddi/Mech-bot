@@ -97,14 +97,10 @@ Here’s another view showing detailed metrics for a specific run, including ans
 
 ---
 
-https://github.com/KhaNerd1
 
 <h1>Contributors</h1>
 <a href="https://github.com/Salsheddi/Mech-bot/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Salsheddi/Mech-bot" alt="Contributors" />
-</a>
-<a href="https://github.com/KhaNerd1/Mech-bot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=KhaNerd1/Mech-bot" alt="Contributors" />
 </a>
 
 ## 📜 License
