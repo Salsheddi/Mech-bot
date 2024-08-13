@@ -95,5 +95,12 @@ Here’s another view showing detailed metrics for a specific run, including ans
 
 <picture align="center"><img src = "img/eval2.png" width = 700px></picture>
 
+---
+
+<h1>Contributors</h1>
+<a href="https://github.com/Aditya-devp/Contributershub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Aditya-devp/Contributershub" />
+</a>
+
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
