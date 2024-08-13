@@ -98,8 +98,8 @@ Here’s another view showing detailed metrics for a specific run, including ans
 ---
 
 <h1>Contributors</h1>
-<a href="https://github.com/Aditya-devp/Contributershub/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Aditya-devp/Contributershub" />
+<a href="https://github.com/Salsheddi/Mech-bot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Salsheddi/Mech-bot" alt="Contributors" />
 </a>
 
 ## 📜 License
