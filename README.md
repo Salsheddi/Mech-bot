@@ -93,15 +93,8 @@ In the screenshot below, you can see the list of logged runs and the relevance s
 Here’s another view showing detailed metrics for a specific run, including answer relevancy. This visualization helps you analyze how well the chatbot is performing on a granular level.
 
 
-<picture align="center"><img src = "img/eval2.png" width = 700px></picture>
+<picture align="center"><img src = "img/eval4.png" width = 700px></picture>
 
----
-
-
-<h1>Contributors</h1>
-<a href="https://github.com/Salsheddi/Mech-bot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Salsheddi/Mech-bot" alt="Contributors" />
-</a>
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
